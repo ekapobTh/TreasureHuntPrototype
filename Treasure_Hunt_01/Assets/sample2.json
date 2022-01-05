@@ -1,0 +1,32 @@
+{
+	"gameplayObj" : [
+		{
+			"name":"A_Blank",
+			"minX":0.25,
+			"minY":0.6,
+			"maxX":0.4,
+			"maxY":0.8
+		},
+		{
+			"name":"B_Blank",
+			"minX":0.25,
+			"minY":0.2,
+			"maxX":0.4,
+			"maxY":0.4
+		},
+		{
+			"name":"C_Blank",
+			"minX":0.6,
+			"minY":0.2,
+			"maxX":0.75,
+			"maxY":0.4
+		},
+		{
+			"name":"D_Blank",
+			"minX":0.6,
+			"minY":0.6,
+			"maxX":0.75,
+			"maxY":0.8
+		}
+	]
+}
