@@ -1,1 +1,1 @@
-# HiddenPicturePrototype
+# TreasureHuntPrototype
